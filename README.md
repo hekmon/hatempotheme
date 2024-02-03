@@ -4,7 +4,7 @@
 
 Ce thème Home Assistant change les couleurs des 6 premiers compteurs d'énergie de Home Assistant pour correspondre aux couleurs Tempo :
 
-![Exemple de compteurs d'énergie avec les couleurs tempo](https://github.com/hekmon/hatempotheme/blob/main/res/tempo_energy.png)
+![Exemple de compteurs d'énergie avec les couleurs tempo](https://github.com/hekmon/hatempotheme/raw/v1.0.0/res/tempo_energy.png)
 
 ## Usage
 
