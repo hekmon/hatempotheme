@@ -49,7 +49,7 @@ Rendez-vous ensuite dans :
  * Menu `Outils de développement`
  * Onglet `Services`
  * Cherchez le service `Home Assistant Frontend: Recharger les thèmes`
- * Activez le
+ * Exécutez le service
 
 ### Utilisation
 
@@ -61,7 +61,7 @@ Pour définir ce thème par default (et pour tous vos utilisateurs à moins qu'i
  * Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
  * Sélectionner le thème `Tempo Énergie`
  * Décochez le `Mode`
- * Activez le service
+ * Exécutez le service
 
 #### Par utilisateur
 
