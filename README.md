@@ -1,5 +1,7 @@
 # Home Assistant - Thème Tempo Énergie
 
+[![Validate with HACS](https://github.com/hekmon/hatempotheme/actions/workflows/hacs.yaml/badge.svg)](https://github.com/hekmon/hatempotheme/actions/workflows/hacs.yaml)
+
 Ce thème Home Assistant change les couleurs des 6 premiers compteurs d'énergie de Home Assistant pour correspondre aux couleurs Tempo :
 
 ![Exemple de compteurs d'énergie avec les couleurs tempo](https://github.com/hekmon/hatempotheme/blob/main/res/tempo_energy.png)
