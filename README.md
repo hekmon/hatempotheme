@@ -43,7 +43,7 @@ Créez le dossier `themes` au même niveau que votre fichier `configuration.yaml
  * Si votre fichier de configuration est dans `/path/to/ha/config/configuration.yaml`
  * Vous devez créer le dossier `/path/to/ha/config/configuration.yaml`
 
-Télécharger le fichier `themes/tempo.yaml` de ce repo à l'intérieur du dossier `themes` que vous venez de créer.
+Télécharger le fichier `themes/tempo.yaml` de ce repo à l'intérieur du dossier `themes` que vous venez de créer. Vous devez optenir : `/path/to/ha/config/themes/tempo.yaml`
 
 Rendez-vous ensuite dans :
  * Menu `Outils de développement`
