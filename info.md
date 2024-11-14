@@ -35,12 +35,13 @@ Redémarrez votre Home Assistant.
 #### Thème par défault
 
 Pour définir ce thème par default (et pour tous vos utilisateurs à moins qu'ils aient spécifiquement sélectionné un thème différent) rendez vous dans:
- * Menu `Outils de développement`
- * Onglet `Services`
- * Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
- * Sélectionner le thème `Tempo Énergie`
- * Décochez le `Mode`
- * Exécutez le service
+
+* Menu `Outils de développement`
+* Onglet `Services`
+* Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
+* Sélectionner le thème `Tempo Énergie`
+* Décochez le `Mode`
+* Exécutez le service
 
 #### Par utilisateur
 

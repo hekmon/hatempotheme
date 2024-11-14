@@ -40,28 +40,30 @@ Plus d'informations sur HACS [ici](https://hacs.xyz/).
 
 Créez le dossier `themes` au même niveau que votre fichier `configuration.yaml` Home assistant :
 
- * Si votre fichier de configuration est dans `/path/to/ha/config/configuration.yaml`
- * Vous devez créer le dossier `/path/to/ha/config/themes`
+* Si votre fichier de configuration est dans `/path/to/ha/config/configuration.yaml`
+* Vous devez créer le dossier `/path/to/ha/config/themes`
 
 Télécharger le fichier `themes/tempo.yaml` de ce repo à l'intérieur du dossier `themes` que vous venez de créer. Vous devez optenir : `/path/to/ha/config/themes/tempo.yaml`
 
 Rendez-vous ensuite dans :
- * Menu `Outils de développement`
- * Onglet `Services`
- * Cherchez le service `Home Assistant Frontend: Recharger les thèmes`
- * Exécutez le service
+
+* Menu `Outils de développement`
+* Onglet `Services`
+* Cherchez le service `Home Assistant Frontend: Recharger les thèmes`
+* Exécutez le service
 
 ### Utilisation
 
 #### Thème par défault
 
 Pour définir ce thème par default (et pour tous vos utilisateurs à moins qu'ils aient spécifiquement sélectionné un thème différent) rendez vous dans:
- * Menu `Outils de développement`
- * Onglet `Services`
- * Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
- * Sélectionner le thème `Tempo Énergie`
- * Décochez le `Mode`
- * Exécutez le service
+
+* Menu `Outils de développement`
+* Onglet `Services`
+* Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
+* Sélectionner le thème `Tempo Énergie`
+* Décochez le `Mode`
+* Exécutez le service
 
 #### Par utilisateur
 
