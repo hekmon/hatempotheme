@@ -48,9 +48,9 @@ Télécharger le fichier `themes/tempo.yaml` de ce repo à l'intérieur du dossi
 Rendez-vous ensuite dans :
 
 * Menu `Outils de développement`
-* Onglet `Services`
-* Cherchez le service `Home Assistant Frontend: Recharger les thèmes`
-* Exécutez le service
+* Onglet `Actions` (l'onglet `Services` a été renommé `Actions` dans Home Assistant 2024.8)
+* Cherchez l'action `Home Assistant Frontend: Recharger les thèmes`
+* Exécutez l'action
 
 ### Utilisation
 
@@ -59,11 +59,11 @@ Rendez-vous ensuite dans :
 Pour définir ce thème par default (et pour tous vos utilisateurs à moins qu'ils aient spécifiquement sélectionné un thème différent) rendez vous dans:
 
 * Menu `Outils de développement`
-* Onglet `Services`
-* Cherchez le service `Home Assistant Frontend: Définir le thème par défaut`
+* Onglet `Actions`
+* Cherchez l'action `Home Assistant Frontend: Définir le thème par défaut`
 * Sélectionner le thème `Tempo Énergie`
 * Décochez le `Mode`
-* Exécutez le service
+* Exécutez l'action
 
 #### Par utilisateur
 
